@@ -1,0 +1,13 @@
+{
+    "name": "meu-servidor",
+    "version": "1.0.0",
+    "description": "Servidor para Fly.io",
+    "main": "servidor.js",
+    "scripts": {
+      "start": "node servidor.js"
+    },
+    "dependencies": {
+      "ws": "^8.13.0"
+    }
+  }
+  
